@@ -1,0 +1,27 @@
+_repo: Report-of-the-committee-appointed-to-investigate-the-causes-and-extent-of-the-late-extraordin__63408
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sickness, Extent of the Late Extraordinary
+    gutenberg_agent_id: '52428'
+    url: http://www.gutenberg.org/2009/agents/52428
+  - agent_name: Causes, Committee on
+    gutenberg_agent_id: '52427'
+    url: http://www.gutenberg.org/2009/agents/52427
+  - agent_name: Town, Mortality in the
+    gutenberg_agent_id: '52429'
+    url: http://www.gutenberg.org/2009/agents/52429
+description: ''
+gutenberg_issued: '2020-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Report of the committee appointed to investigate the causes and extent of the
+  late extraordinary sickness and mortality in the town of Mobile
+url: http://www.gutenberg.org/ebooks/63408
