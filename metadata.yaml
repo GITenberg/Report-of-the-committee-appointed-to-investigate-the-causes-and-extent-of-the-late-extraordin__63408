@@ -1,5 +1,8 @@
 _repo: Report-of-the-committee-appointed-to-investigate-the-causes-and-extent-of-the-late-extraordin__63408
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63408-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sickness, Extent of the Late Extraordinary
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '52429'
     url: http://www.gutenberg.org/2009/agents/52429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63408#Report-of-the-committee-appointed-to-investigate-the-causes-and-extent-of-the-late-extraordin_
 gutenberg_issued: '2020-10-08'
 gutenberg_type: Text
 identifiers:
